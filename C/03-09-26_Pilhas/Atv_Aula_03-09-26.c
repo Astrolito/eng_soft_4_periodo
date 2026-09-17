@@ -15,6 +15,7 @@ typedef struct {
 typedef struct {
     char *atual;
     PilhaURLs voltar;
+
     PilhaURLs avancar;
 } Navegador;
 
